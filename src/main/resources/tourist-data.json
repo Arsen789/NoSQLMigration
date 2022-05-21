@@ -1,0 +1,12 @@
+[
+  {
+    "_class": "com.imse_project.entity.Tourist",
+    "data_of_birth": 1,
+    "living_location": " "
+  },
+  {
+    "_class": "com.imse_project.entity.Tourist",
+    "data_of_birth": 1,
+    "living_location": " "
+  }
+]

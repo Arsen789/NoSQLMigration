@@ -1,0 +1,12 @@
+[
+  {
+    "_class": "com.imse_project.entity.RatePosting",
+    "ratePosting_id": 1,
+    "rating_date": " "
+  },
+  {
+    "_class": "com.imse_project.entity.RatePosting",
+    "ratePosting_id": 2,
+    "rating_date": " "
+  }
+]

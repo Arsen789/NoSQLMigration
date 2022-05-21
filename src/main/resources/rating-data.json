@@ -1,0 +1,17 @@
+
+[
+{
+"_class": "com.imse_project.entity.Rating",
+"rating_id": 1,
+"comment": 1,
+"safety": " "
+"quality": " "
+},
+{
+"_class": "com.imse_project.entity.Rating",
+"rating_id": 1,
+"comment": 1,
+"safety": " "
+"quality": " "
+}
+]

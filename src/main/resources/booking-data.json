@@ -1,0 +1,13 @@
+
+[
+{
+"_class": "com.imse_project.entity.Booking",
+"booking_id": 1,
+"booking_date": 1,
+},
+{
+"_class": "com.imse_project.entity.Booking",
+"booking_id": 1,
+"booking_date": 1
+}
+]

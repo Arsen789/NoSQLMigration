@@ -1,0 +1,17 @@
+
+[
+  {
+    "_class": "com.imse_project.entity.ActivityListing",
+    "activity_id": 1,
+    "location": 1,
+    "activity_date": 1,
+    "listing_date": 1
+  },
+  {
+    "_class": "com.imse_project.entity.ActivityListing",
+    "activity_id": 1,
+    "location": 1,
+    "activity_date": 1,
+    "listing_date": 1
+  }
+]

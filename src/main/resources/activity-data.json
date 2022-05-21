@@ -1,0 +1,15 @@
+
+[
+  {
+    "_class": "com.imse_project.entity.Activity",
+    "activity_id": 1,
+    "title": 1,
+    "description": 1
+  },
+  {
+    "_class": "com.imse_project.entity.Activity",
+  "activity_id": 1,
+  "title": 1,
+  "description": 1
+  }
+]
